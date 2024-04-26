@@ -13,14 +13,14 @@ Hello Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 
 <h3 align= "center">
 I am Soumapriyo Mondal<br><br>
-<img src="https://img.shields.io/github/followers/Sreetama2001?color=yellow&logo=github&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/SoumapriyoM?color=yellow&logo=github&style=for-the-badge">
 <!-- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HazraSreetama?color=yellow&style=for-the-badge"> -->
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Sreetama2001?color=yellow&style=for-the-badge">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/SoumapriyoM?color=yellow&style=for-the-badge">
 <a href="https://www.dropbox.com/s/8p3dpdfl6n4t55k/Sreetama%20ghosh%20hazra_resume.pdf?dl=0">
 <img alt= "resume-not-updated" src="https://img.shields.io/badge/Resume-click-yellow?style=for-the-badge">
 </a>
 <!-- <img alt="GitHub User's stars" src="https://img.shields.io/badge/views-1000-yellow"> -->
-<!-- ![GitHub followers](https://img.shields.io/github/followers/Sreetama2001?color=blue&logo=github&style=for-the-badge) -->
+<!-- ![GitHub followers](https://img.shields.io/github/followers/SoumapriyoM?color=blue&logo=github&style=for-the-badge) -->
 </h3>
 
 <h2 align= "left">
@@ -120,6 +120,6 @@ I am Soumapriyo Mondal<br><br>
 <!-- https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only -->
 <h2 align ="left">
  <b> 📊 GitHub Statistics </b><br>
- <img alt="Languages"src="https://raw.githubusercontent.com/Sreetama2001/My-github-stats/f54c718825144152108ef353cbca0dcde32b7e17/generated/languages.svg">
-  <img alt="Languages"src="https://raw.githubusercontent.com/Sreetama2001/My-github-stats/5606a8a02f807caa2156ed472961ec86bdf9077c/generated/overview.svg">
+ <img alt="Languages"src="https://raw.githubusercontent.com/SoumapriyoM/My-github-stats/f54c718825144152108ef353cbca0dcde32b7e17/generated/languages.svg">
+  <img alt="Languages"src="https://raw.githubusercontent.com/SoumapriyoM/My-github-stats/5606a8a02f807caa2156ed472961ec86bdf9077c/generated/overview.svg">
 </h2>
